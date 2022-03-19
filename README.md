@@ -10,3 +10,4 @@
         - git commit -m 
         - git branch
         - git checkout 
+        - git merge 
